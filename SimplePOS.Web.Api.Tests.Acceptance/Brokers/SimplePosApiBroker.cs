@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc.Testing;
 using RESTFulSense.Clients;
 
-namespace SimplePOS.Web.Api.Tests.Acceptance.Brokers;
+namespace SimplePos.Web.Api.Tests.Acceptance.Brokers;
 
 public partial class SimplePosApiBroker
 {
