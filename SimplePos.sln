@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePos.Web.Api", "Simple
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePOS.Web.Api.Tests.Unit", "SimplePOS.Web.Api.Tests.Unit\SimplePOS.Web.Api.Tests.Unit.csproj", "{8A38A336-8C93-40AD-8B4E-6DA2488ECC6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePOS.Web.Api.Tests.Acceptance", "SimplePOS.Web.Api.Tests.Acceptance\SimplePOS.Web.Api.Tests.Acceptance.csproj", "{00741597-6BDC-4509-86CC-7E90C40A4A41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{8A38A336-8C93-40AD-8B4E-6DA2488ECC6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A38A336-8C93-40AD-8B4E-6DA2488ECC6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A38A336-8C93-40AD-8B4E-6DA2488ECC6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00741597-6BDC-4509-86CC-7E90C40A4A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00741597-6BDC-4509-86CC-7E90C40A4A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00741597-6BDC-4509-86CC-7E90C40A4A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00741597-6BDC-4509-86CC-7E90C40A4A41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
