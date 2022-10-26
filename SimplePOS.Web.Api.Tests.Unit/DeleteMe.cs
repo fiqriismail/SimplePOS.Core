@@ -1,7 +1,7 @@
 using Xunit;
 using FluentAssertions;
 
-namespace SimplePOS.Web.Api.Tests.Unit;
+namespace SimplePos.Web.Api.Tests.Unit;
 
 public class DeleteMe
 {

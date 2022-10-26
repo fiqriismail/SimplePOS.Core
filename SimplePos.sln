@@ -1,10 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePos.Web.Api", "SimplePos.Web.Api\SimplePos.Web.Api.csproj", "{F782A0C3-2AA6-4E39-8684-04B533F71044}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePOS.Web.Api.Tests.Unit", "SimplePOS.Web.Api.Tests.Unit\SimplePOS.Web.Api.Tests.Unit.csproj", "{8A38A336-8C93-40AD-8B4E-6DA2488ECC6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePOS.Web.Api.Tests.Acceptance", "SimplePOS.Web.Api.Tests.Acceptance\SimplePOS.Web.Api.Tests.Acceptance.csproj", "{00741597-6BDC-4509-86CC-7E90C40A4A41}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePos.Web.Api.Tests.Acceptance", "SimplePOS.Web.Api.Tests.Acceptance\SimplePOS.Web.Api.Tests.Acceptance.csproj", "{00741597-6BDC-4509-86CC-7E90C40A4A41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
