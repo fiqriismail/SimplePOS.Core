@@ -1,9 +1,9 @@
 ﻿using System;
 using FluentAssertions;
-using SimplePOS.Web.Api.Tests.Acceptance.Brokers;
+using SimplePos.Web.Api.Tests.Acceptance.Brokers;
 using Xunit;
 
-namespace SimplePOS.Web.Api.Tests.Acceptance.APIs.Homes
+namespace SimplePos.Web.Api.Tests.Acceptance.APIs.Homes
 {
     [Collection(nameof(ApiTestCollection))]
     public class HomeApiTests
