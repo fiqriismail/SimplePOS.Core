@@ -17,6 +17,14 @@
 
     <ItemGroup>
       <Folder Include="Controllers" />
+      <Folder Include="Brokers\" />
+      <Folder Include="Brokers\Loggings\" />
+      <Folder Include="Brokers\DateTimes\" />
     </ItemGroup>
 
+    <ItemGroup>
+      <None Remove="Brokers\" />
+      <None Remove="Brokers\Loggings\" />
+      <None Remove="Brokers\DateTimes\" />
+    </ItemGroup>
 </Project>
