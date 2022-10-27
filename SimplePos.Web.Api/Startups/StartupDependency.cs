@@ -1,3 +1,4 @@
+using SimplePos.Web.Api.Brokers.DateTimes;
 using SimplePos.Web.Api.Brokers.Loggings;
 
 namespace SimplePos.Web.Api.Startups;
@@ -16,6 +17,7 @@ public static class StartupDependency
     public static IServiceCollection AddAppDepedencies(this IServiceCollection services)
     {
         services.AddTransient<ILoggingBroker, LoggingBroker>();
+        services.AddTransient<IDateTimeBroker, DateTimeBroker>();
 
         return services;
     }
